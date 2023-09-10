@@ -3,20 +3,20 @@
     {
       "id": 1,
       "conteudo": "Java é o melhor",
-      "autoria": "Dev jr",
+      "autoria": "Grazi",
       "modelo": "modelo1"
-  },
-  {
+    },
+    {
       "id": 2,
-      "conteudo": "Estudando Angular",
-      "autoria": "Dev Alura",
+      "conteudo": "Na minha máquina funciona",
+      "autoria": "Todo e qualquer dev",
       "modelo": "modelo2"
-  },
-  {
+    },
+    {
       "id": 3,
-      "conteudo": "Angular é o melhor'",
-      "autoria": "Dev Alura",
+      "conteudo": "Angular é o melhor",
+      "autoria": "Dev front",
       "modelo": "modelo3"
-  }
+    }
   ]
 }
